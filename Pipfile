@@ -9,6 +9,7 @@ langchain-groq = "*"
 langchain-community = "*"
 pypdf = "*"
 sentence-transformers = "*"
+langchain-huggingface = "==0.3.0"
 
 [dev-packages]
 
