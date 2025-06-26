@@ -5,11 +5,11 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
-langchain-groq = "*"
 langchain-community = "*"
 pypdf = "*"
 sentence-transformers = "*"
 langchain-huggingface = "==0.3.0"
+langchain-groq = "==0.3.2"
 
 [dev-packages]
 

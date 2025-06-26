@@ -3,7 +3,7 @@ import streamlit as st
 import os
 
 # === PHASE 2: CONNECT TO LLM ===
-from langchain_groq import ChatGroq
+from langchain_groq.chat_models import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 
 # === PHASE 3: RAG INTEGRATION ===
