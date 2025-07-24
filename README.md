@@ -124,7 +124,7 @@ source venv/bin/activate  # Linux/MacOS</code></pre>
 <h2>📬 Contact</h2>
 <hr>
 <p>
-  <a href="https://www.linkedin.com/in/mayur-garje-56a497290/" target="_blank">
+  <a href="https://www.linkedin.com/in/mayurgarjeofficial" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
